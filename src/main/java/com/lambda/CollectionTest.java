@@ -20,7 +20,7 @@ public class CollectionTest {
 			return b.compareTo(a);
 		} );
 		
-		System.out.format("Search engines desc: %s", engines);
+		System.out.format("Search engines desc: %s\n", engines);
 		
 	}
 
