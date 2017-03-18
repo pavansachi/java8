@@ -6,3 +6,4 @@ java 8 samples and examples
 #### Default methods
 #### lambda collection sort
 #### Functional interface
+#### Constructor and creating objects
